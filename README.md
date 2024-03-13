@@ -46,7 +46,7 @@
 
 ➡ 메인화면 - 검색, 내가 만든 방, 참여중인 방 확인 가능
 
-<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/f24a8eaa-9170-4f54-af00-563558746909" width="600" height="350">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/c569d1ba-0807-46ca-b1db-84ba2f8ef028" width="600" height="350">
 <br/><br/>
 <hr>
 
