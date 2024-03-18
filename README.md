@@ -52,9 +52,9 @@
 
 ➡ 방만들기 / 방입장
 
-<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/40e7140e-b778-4f71-8f85-1103d774d973" width="400" height="250">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/d14d61f8-dba0-4215-971a-3446db26ddf3" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/493a50f2-b5ec-4f65-bdaf-2e5fbe69a71e" width="400" height="250">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/ea422e10-fd3d-4af4-85e4-e6243ec80133" width="400" height="250">
 <br/><br/>
 <hr>
 
@@ -63,7 +63,7 @@
 
 | 참여자 | 방장 |
 |-------------|-------------|
-|<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/b1cb66c1-e738-4905-9913-1e23fb2951a3" width="400" height="250">|<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/7462d21b-9b1c-4afa-b430-bb3597098e4a" width="400" height="250">|
+|<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/34afe3be-0263-410e-b18e-cdc57d79f3d3" width="400" height="250">|<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/e27e0928-b4cf-44e2-bb90-3a57b07efde6" width="400" height="250">|
 
 - 참여자 : 자료 공유,질문 게시판 등록/수정 가능 , 채팅, AI 질문서비스 가능
 
@@ -76,11 +76,16 @@
 
 | 등록 | 다운로드 |
 |-------------|-------------|
-|<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/cbe424da-f060-4f4d-903c-9a229e62a5aa" width="400" height="250"> | <img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/cd2f6e26-0d63-4a1b-9feb-c37dbdd27904" width="400" height="250"> |
-
-
+|<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/60578803-fcbf-484e-a046-90c3550bcc05" width="400" height="250"> | <img src="https://github.com/hayoung09/RoomMaker/assets/162979427/aad70acc-ab71-421b-84ab-2a58781652be" width="400" height="250"> |
 <br/><br/>
 <hr>
+
+➡ 공지 (방장만 등록,수정,삭제 가능)
+
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/9b1c60f1-1e52-406e-966b-c2678f23f77b" width="600" height="350">
+<br/><br/>
+<hr>
+
 
 ➡ 채팅
 
@@ -88,7 +93,7 @@
 
 <br/>
 
-<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/8efd41f3-7d16-4452-8ae8-65ab5e197cb6" width="600" height="350">  
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/e2c664b5-5b1f-40f5-9560-164a54bb3de4" width="600" height="350">  
 
 <br/><br/>
 <hr>
@@ -99,7 +104,7 @@
 
 <br/>
 
-<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/5f310e27-3017-4cf4-933b-d268c1152daf" width="600" height="350">  
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/504bce6f-01d3-4c39-b5d8-c2192666b071" width="600" height="350">  
 
 <br/><br/>
 <hr>
@@ -108,14 +113,14 @@
 
 - 관리자 페이지
 
-<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/99ec85b2-33a4-4745-934a-aefd3dc58212" width="600" height="350">  
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/c3258bd0-294a-4ad7-a42f-7759fe55aa5c" width="600" height="350">  
 
 
 <br/><br/>
 
 | 기능 | 회원 | 방 |
 |-------------|-------------|-------------|
-| 상세화면 |<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/ac76fc44-3693-4042-89c3-f76be800fcde" width="400" height="250">|<img src="https://github.com/moonjinho99/RoomMaker/assets/117807455/2833141a-5e15-4d29-99ba-0845ad775896" width="400" height="250">|
+| 상세화면 |<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/0be9c47a-c707-4a9b-9999-91a57302be97" width="400" height="250">|<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/0ad5cc46-92c9-4b3e-a861-13abd10047d0" width="400" height="250">|
 | 기능 | 회원 탈퇴 | 참여 회원 탈퇴 , 공지, 자료공유, 질문 게시판 , 답변, 방 전체 삭제 |
 
 <br/><br/>
@@ -124,7 +129,7 @@
 
 ## 🔍 ERD
 
-![image](https://github.com/moonjinho99/RoomMaker/assets/117807455/387d48c0-0bd5-4cb0-be7d-e99c7ab180a9)
+![image](https://github.com/hayoung09/RoomMaker/assets/162979427/7059c6db-68a1-43b3-b3bd-c69d531ced5c)
 
 <br/><br/>
 <hr>
